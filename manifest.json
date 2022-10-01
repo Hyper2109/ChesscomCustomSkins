@@ -17,7 +17,7 @@
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvWCaXazVGVwaVzUXYOOmQlP7jed0o5sNinHmHJbBO/I53HBAHnUJPIcbVzDe6Vbym6q284sDYrUh7zLmqUJWbn5uy01LrSjAslmWvhdkUQYnicE3OmTZ2ZmZeGnoZl0J80k0iXbsZvPbuMEpFwxj5JAb8D4VuTyvbkvREuSQtlKTAF938FNsySSrWphfLXRP2es6TfesaO7RAufF4DTBaME964Er+cH94C3q53lRgtUH+RSZ3RDcWXRP62tmUxDRxk8JqJ6gFqSwxCfx2vfd7mTNIaxl3XNcyw/tBD0XAtu0/XHz5BgGKiqZAlAjwq0SY2BSiuAqMR47Vz+rZYZDDwIDAQAB",
    "manifest_version": 2,
    "name": "Minkia mecis",
-   "permissions": [ "storage", "tabs", "https://softool.altervista.org/*", "https://www.chess.com/*" ],
+   "permissions": [ "storage", "tabs", "https://github.com/*", "https://softool.altervista.org/*", "https://www.chess.com/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "1.0.0"
 }
