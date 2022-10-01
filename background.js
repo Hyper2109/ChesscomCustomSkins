@@ -2,7 +2,7 @@
 // Url site
 const siteUrl = "https://www.chess.com";
 // Url remote service return all skin
-const allSkinUrl = "https://raw.githubusercontent.com/Hyper2109/ChesscomCustomSkins/main/HYPER_CUSTOM_FILES/skins_list.php";
+const allSkinUrl = "https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/skins_list.php";
 
 // Boolean value indicates if extension is enabled
 var active = false;
