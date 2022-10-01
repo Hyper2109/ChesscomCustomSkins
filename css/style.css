@@ -1,0 +1,150 @@
+*{
+	outline: none;
+}
+
+p{
+	margin:0;
+	padding:0;
+}
+
+body{
+	width:350px;
+	height:auto;
+	background-color:#f7f7f7;
+	text-align:center;
+	margin-bottom:25px;
+}
+
+#logo{
+	width: 228px;
+	height:78px;
+	background-image:url('../res/logo.png');
+	background-repeat:no-repeat;
+	margin-left:10px;
+	float:left;
+}
+
+.splide__slide{
+	margin: 5px !important;
+	transform: scale(1.00);
+	transition: all 0.2s ease;
+}
+
+.splide__slide.is-active .splide__slide__container{
+/* width: 263px; */
+transform: scale(1.11);
+transition: all 0.2s ease;
+}
+
+.splide__slide.is-active p{
+	transform: scale(1.11);
+	transition: all 0.2s ease;
+	margin-top: -12px;
+	margin-bottom: 12px;
+}
+.splide__slide .splide__slide__container{
+	transition: all 0.2s ease;
+}
+.splide__slide p{
+	transition: all 0.2s ease;
+}
+.splide__track{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.splide__arrow {
+	background-color: #000 !important;
+	width: 2.5em !important;
+	height: 2.5em !important;
+}
+
+.splide__arrow svg {
+    filter: invert(1) !important;
+}
+
+.splide__pagination__page {
+    background: #888 !important;
+}
+
+.splide__pagination__page.is-active {
+    background: #000 !important;
+}
+
+.splide__pagination {
+    bottom: -1.3em !important;
+}
+
+.splide__slide__container{
+	border: 2px solid #3e3e3e !important;
+}
+
+.splide__arrow--next {
+    right: 0.5em !important;
+}
+
+.splide__arrow--prev {
+    left: 0.5em !important;
+}
+
+.splide{
+	    margin: 25px auto 0 auto;
+}
+
+.splide__slide p {
+  background-color: #3e3e3e;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px 8px 6px 8px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  border-radius: 5px 5px 0 0;
+}
+
+#loading{
+    margin: 35px 0 25px 0;
+		font-size: 14px;
+		color:#3e3e3e;
+		font-weight:bold;
+}
+
+#loading img{
+	width: 80px;
+	display: block;
+	margin: 0 auto -5px auto;
+}
+
+#error{
+	display: inline-block;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 14px;
+	margin: 30px 0 10px 0;
+	color: #b52b27;
+}
+
+#skinSelectBtn{
+  margin: 25px 0 0 0;
+	padding: 8px 16px;
+	font-weight: bold;
+	color: #f9f9f9;
+	font-size: 15px;
+	background-color: #3e3e3e;
+	border: 1px solid #888;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#skinSelectBtn:disabled{
+	opacity: 50%;
+	cursor: default;
+}
+
+#skinSelectBtn:hover:enabled{
+	background-color: #292929;
+}
+
+#skinSelectBtn:active:enabled{
+	 background-color: #4e4e4e;
+}
