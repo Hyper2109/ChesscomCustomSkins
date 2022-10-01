@@ -38,7 +38,7 @@
 {
 "id":"7",
 "name":"Cobra (Set dei grandi)",
-"preview_url":"",
-"style_url":""
+"preview_url":"https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/preview.jpg",
+"style_url":"https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/style.css"
 }
 ]
