@@ -33,11 +33,11 @@
 "id":"6",
 "name":"Soft Blue",
 "preview_url":"https://raw.githubusercontent.com/Hyper2109/ChesscomCustomSkins/main/HYPER_CUSTOM_FILES/custom_skins/soft_blue/preview.png",
-"style_url":"https://drive.google.com/uc?export=view&id=14usbU8hRpf9AtPaFLBNfjc1bgnMUzZHz"
+"style_url":"https://github.com/Hyper2109/ChesscomCustomSkins/blob/main/HYPER_CUSTOM_FILES/custom_skins/soft_blue/style.css"
 },
 {
 "id":"7",
-"name":"Horseyyyy",
+"name":"Horsey",
 "preview_url":"https://raw.githubusercontent.com/Hyper2109/ChesscomCustomSkins/main/HYPER_CUSTOM_FILES/custom_skins/horsey/preview.png",
 "style_url":"https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/horsey/style.css"
 }
