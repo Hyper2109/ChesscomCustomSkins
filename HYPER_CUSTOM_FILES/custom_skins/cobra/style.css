@@ -1,0 +1,105 @@
+/* Torre nera */
+.br, div[style*="background-image: url("][style*="br.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/br.png)!important;
+}
+img[data-piece="R"][data-player="2"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/br.png")!important;
+}
+
+/* Cavallo nero */
+.bn, div[style*="background-image: url("][style*="bn.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bn.png)!important; 
+}
+img[data-piece="N"][data-player="2"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bn.png")!important;
+}
+
+/* Alfiere nero */
+.bb, div[style*="background-image: url("][style*="bb.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bb.png)!important; 
+}
+img[data-piece="B"][data-player="2"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bb.png")!important;
+}
+
+/* Re nero */
+.bk, div[style*="background-image: url("][style*="bk.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bk.png)!important; 
+}
+img[data-piece="K"][data-player="2"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bk.png")!important;
+}
+
+/* Regina nera */
+.bq, div[style*="background-image: url("][style*="bq.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bq.png)!important; 
+}
+img[data-piece="Q"][data-player="2"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bq.png")!important;
+}
+
+/* Pedoni neri */
+.bp, div[style*="background-image: url("][style*="bp.png"]{
+ 	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bp.png)!important; 
+}
+img[data-piece="P"][data-player="2"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/bp.png")!important;
+}
+
+/* Torre bianca */
+.wr, div[style*="background-image: url("][style*="wr.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wr.png)!important; 
+}
+img[data-piece="R"][data-player="0"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wr.png")!important;
+}
+
+/* Cavallo bianco */
+.wn, div[style*="background-image: url("][style*="wn.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wn.png)!important; 
+}
+img[data-piece="N"][data-player="0"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wn.png")!important;
+}
+
+/* Alfiere bianco */
+.wb, div[style*="background-image: url("][style*="wb.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wb.png)!important; 
+}
+img[data-piece="B"][data-player="0"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wb.png")!important;
+}
+
+/* Re bianco */
+.wk, div[style*="background-image: url("][style*="wk.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wk.png)!important; 
+}
+img[data-piece="K"][data-player="0"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wk.png")!important;
+}
+
+/* Regina bianca */
+.wq, div[style*="background-image: url("][style*="wq.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wq.png)!important; 
+}
+img[data-piece="Q"][data-player="0"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wq.png")!important;
+}
+
+/* Pedoni bianchi */
+.wp, div[style*="background-image: url("][style*="wp.png"]{
+	background-image: url(https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wp.png)!important; 
+}
+img[data-piece="P"][data-player="0"]{
+	content:url("https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/wp.png")!important;
+}
+/* Sfondo tavolo da gioco */
+.game-preview-component, .v-board, chess-board.board, #board-play-board, #board-board, #board-vs-personalities, .fade-in-overlay, #board, .board {
+    background-image: url(https://lichess1.org/assets/_cXzqj6/images/board/horsey.jpg) !important;
+}
+
+/* Caselle selezionate*/
+div[style*="background-color: rgb(125, 172, 201);"].highlight{
+	background-color: #e67e22 !important;
+    opacity: 0.5;
+}
