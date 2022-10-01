@@ -95,7 +95,7 @@ img[data-piece="P"][data-player="0"]{
 }
 /* Sfondo tavolo da gioco */
 .game-preview-component, .v-board, chess-board.board, #board-play-board, #board-board, #board-vs-personalities, .fade-in-overlay, #board, .board {
-    background-image: url(https://lichess1.org/assets/_cXzqj6/images/board/horsey.jpg) !important;
+    background-image: url(https://images.chesscomfiles.com/chess-themes/boards/green/150.png) !important;
 }
 
 /* Caselle selezionate*/
