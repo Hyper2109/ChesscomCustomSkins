@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@100;400;600&family=M+PLUS+Rounded+1c:wght@500&display=swap');
+
 *{
 	outline: none;
 }
@@ -22,6 +24,22 @@ body{
 	background-repeat:no-repeat;
 	margin-left:10px;
 	float:left;
+}
+
+#modded{
+	position:fixed;
+	top: 75px;
+	left: 120px;
+	font-family: 'Inter Tight', sans-serif;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+#advice{
+	position: relative;
+	padding: 0px 20px 0px 20px;
+	top: 10px;
+	font-family: 'Inter Tight', sans-serif;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .splide__slide{
