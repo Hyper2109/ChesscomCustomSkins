@@ -34,5 +34,11 @@
 "name":"Horsey",
 "preview_url":"https://raw.githubusercontent.com/Hyper2109/ChesscomCustomSkins/main/HYPER_CUSTOM_FILES/custom_skins/horsey/preview.png",
 "style_url":"https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/horsey/style.css"
+},
+{
+"id":"7",
+"name":"Cobra (Set dei grandi)",
+"preview_url":"",
+"style_url":""
 }
 ]
