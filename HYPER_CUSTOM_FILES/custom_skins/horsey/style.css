@@ -100,7 +100,7 @@ img[data-piece="P"][data-player="0"]{
 
 /* Caselle selezionate*/
 div[style*="background-color: rgb(125, 172, 201);"].highlight{
-	background-color: green !important;
+	background-color: transparent !important;
 	background-image: url(https://lichess1.org/assets/_cXzqj6/images/board/horsey.last-move.png);
     opacity: 0.5;
 }
