@@ -39,6 +39,6 @@
 "id":"7",
 "name":"Horsey",
 "preview_url":"https://raw.githubusercontent.com/Hyper2109/ChesscomCustomSkins/main/HYPER_CUSTOM_FILES/custom_skins/horsey/preview.png",
-"style_url":"https://drive.google.com/uc?export=view&id=16IO3RMm_joLsxlvwJxYZ7dzMl0CyDVm_"
+"style_url":"https://raw.githubusercontent.com/Hyper2109/ChesscomCustomSkins/main/HYPER_CUSTOM_FILES/custom_skins/horsey/style.css"
 }
 ]
