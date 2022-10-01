@@ -6,9 +6,9 @@
    "browser_action": {
       "default_icon": "res/icon.png",
       "default_popup": "popup.html",
-      "default_title": "Skin|Chess.com"
+      "default_title": "Skin|Chess.com|Modded by Hyper2109"
    },
-   "description": "Ganzo nel culo.",
+   "description": "More custom skins for Chess.com",
    "icons": {
       "128": "res/icon128.png",
       "16": "res/icon16.png",
@@ -16,7 +16,7 @@
    },
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvWCaXazVGVwaVzUXYOOmQlP7jed0o5sNinHmHJbBO/I53HBAHnUJPIcbVzDe6Vbym6q284sDYrUh7zLmqUJWbn5uy01LrSjAslmWvhdkUQYnicE3OmTZ2ZmZeGnoZl0J80k0iXbsZvPbuMEpFwxj5JAb8D4VuTyvbkvREuSQtlKTAF938FNsySSrWphfLXRP2es6TfesaO7RAufF4DTBaME964Er+cH94C3q53lRgtUH+RSZ3RDcWXRP62tmUxDRxk8JqJ6gFqSwxCfx2vfd7mTNIaxl3XNcyw/tBD0XAtu0/XHz5BgGKiqZAlAjwq0SY2BSiuAqMR47Vz+rZYZDDwIDAQAB",
    "manifest_version": 2,
-   "name": "Minkia mecis",
+   "name": "Skin|Chess.com|Modded by Hyper2109",
    "permissions": [ "storage", "tabs", "https://github.com/*", "https://softool.altervista.org/*", "https://www.chess.com/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "1.0.0"
