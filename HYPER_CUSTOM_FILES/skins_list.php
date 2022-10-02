@@ -40,5 +40,11 @@
 "name":"Cobra (Set dei grandi)",
 "preview_url":"https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/preview.jpg",
 "style_url":"https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/cobra/style.css"
+},
+{
+"id":"8",
+"name":"Badoo Guru",
+"preview_url":"https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/paparone/preview.jpeg",
+"style_url":"https://hyper2109.github.io/ChesscomCustomSkins/HYPER_CUSTOM_FILES/custom_skins/paparone/style.css"
 }
 ]
